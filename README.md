@@ -59,7 +59,7 @@ We experimented with:
 ### *Predictions vs Actual Scores*  
 Our model’s predictions closely match real student scores:  
 
-![Predictions vs Actual](attachment:image2.png)  
+![Predictions vs Actual](https://github.com/crispin046/Students-performance-factors/blob/main/6.%20predictions%20vs%20actual%20exam%20scores.png)  
 
 There are small differences in some cases, meaning additional factors (such as motivation or test anxiety) may influence performance.  
 
