@@ -78,9 +78,9 @@ There are small differences in some cases, meaning additional factors (such as m
 ---
 
 ## *7. References*  
-- Hanushek, E. A., & Woessmann, L. (2011). "The Economics of International Differences in Educational Achievement."  
-- Kuhfeld, M., & Tarasawa, B. (2020). "The COVID-19 Slide: What Summer Learning Loss Can Tell Us About the Potential Impact of School Closures on Student Academic Achievement."  
+- Hanushek, E. A., & Woessmann, L. (2011). "The Economics of International Differences in Educational Achievement."    
 - Bishop, J. H. (1997). "The Effect of Curriculum-Based External Exit Exam Systems on Student Achievement."  
+- [The Hidden Keys to Student Success: What Really Drives Performance?](https://medium.com/@crispinoigara/the-hidden-keys-to-student-success-what-really-drives-performance-b88b2aef37b3)
 
 ---
 
