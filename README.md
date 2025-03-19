@@ -1,4 +1,6 @@
-# *Understanding Student Performance Using Data Science*  
+# *Understanding Student Performance* 
+![The Hidden Keys to Student Success](https://png.pngtree.com/thumb_back/fh260/background/20241002/pngtree-and-celebrating-academic-success-students-graduating-with-diplomas-tossing-caps-in-image_16306726.jpg)
+
 
 ## *1. Introduction*  
 Student success depends on multiple factors, such as study habits, parental involvement, and access to resources. Using data science, we analyze which factors impact academic performance the most and how we can use this information to improve learning outcomes.  
